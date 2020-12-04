@@ -1,3 +1,3 @@
 # aep
 
-project, that researches 
+research project, to help people with dyslexia work with text
